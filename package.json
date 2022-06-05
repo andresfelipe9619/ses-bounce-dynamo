@@ -1,0 +1,16 @@
+{
+  "name": "ses-bounce-dynamo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Suarez",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1049.0",
+    "luxon": "^2.3.0",
+    "papaparse": "^5.3.1"
+  }
+}
